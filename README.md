@@ -1,5 +1,4 @@
-# waveSharp
-# this site will be update when a new DEMO version is available
-
-wavelet-sharpening for astro images based on RegiStax 
+# waveSharp (2022 - 12 - 06)
+# this site will be updated when a DEMO version becomes available
+# currently we are testing pre-release versions.
 
