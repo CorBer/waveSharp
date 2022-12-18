@@ -10,7 +10,7 @@ The development of waveSharp was done in close collaboration with:
 
 I want to thank them first of all for helping me get started and spending part of their free time on this. They have tested many (over 50) earlier versions of the application and provided both help/bugs and ideas that helped me steering this project. 
 
-Cor Berrevoets (registax at gmail dot com)
+Cor Berrevoets 
 
 ![](images/Screenshot%20at%202022-12-17%2009-03-24.png?raw=true)
 ![](images/Screenshot%20at%202022-12-17%2009-31-35.png?raw=true)
