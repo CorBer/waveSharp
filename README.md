@@ -1,4 +1,3 @@
-# waveSharp (2022 - 12 - 17)
 # release planned for 2022-12-19
 
 ### waveSharp 002_3 DEMO application (2022-dec-19)
