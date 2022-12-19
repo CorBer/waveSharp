@@ -1,6 +1,6 @@
 # waveSharp 002_3 DEMO application (2022-dec-19)
 ## released on 2022-12-19
-This repository holds the first public release (freeware) of the waveSharp project.  The aim of this project is to recreate the RegiStax6(RS6) wavelet sharpening module.  RS6 was developed in 2011 only for windows 32bit computers, waveSharp is developed for 64bit computers and multiple operating systems. Therefore this application is only ment to sharpen/enhance images that have been created using other software (alignment/stacking). 
+This repository holds the first public release (freeware) of the waveSharp project.  The aim of this project is to recreate the RegiStax6(RS6) wavelet sharpening module.  RS6 was developed in 2011 only for windows 32bit computers, waveSharp is developed for 64bit computers and multiple operating systems. Therefore this application is only meant to sharpen/enhance images that have been created using other software (alignment/stacking). 
 
 The development of waveSharp was done in close collaboration with:
 - Grant Blair
