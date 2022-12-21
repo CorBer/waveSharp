@@ -1,4 +1,8 @@
 # waveSharp 002_3 DEMO application (2022-dec-19)
+## extra information 2022-12-21
+When using waveSharp on windows make sure your windows display scaling is set to 100%(default), otherwise
+the interface will be not looking as we planned.
+
 ## update on 2022-12-20
 The windows version has been updated since saving to TIFF was not possible.
 
