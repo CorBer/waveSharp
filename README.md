@@ -2,6 +2,8 @@
 ## update on 2022-12-21
 An updated version for windows is available that solves the issues with saving to TIFF and issues with the interface due to scaling (**waveSharp_WIN64_20221221.zip**)
 
+see: https://github.com/CorBer/waveSharp/releases/download/v002_3/waveSharp_WIN64__20221221.zip
+
 ## update on 2022-12-20
 The windows version has been updated since saving to TIFF was not possible.
 
