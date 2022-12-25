@@ -1,4 +1,16 @@
-# waveSharp 002_3 DEMO application (2022-dec-19)
+# waveSharp 002_3 DEMO application (2022-dec-25)
+
+## update on 2022-12-25
+
+We have started testing the initial setup to allow batch processing of images, this is still only PNG and TIFF based. All settings you can currently alter in waveSharp are available during batch processing.
+
+The batch-processing can be used to either:
+1) create a set of sharpened/colour-balanced files for later use (in the same format as the original)
+2) create a GIF (by default restricted to a maximum of 255 different colours )
+3) create an APNG (animated PNG that allows lossless imagequality-compression and full colour animation (8bit/channel), makes the results 2-3times the size of a GIF)
+
+All this functionality is allready working in our testversion but several things need a bit more tweaking and quality-control (WYSIWYG) before sharing.
+
 ## update on 2022-12-21
 An updated version for windows is available that solves the issues with saving to TIFF and issues with the interface due to scaling (**waveSharp_WIN64_20221221.zip**)
 
