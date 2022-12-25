@@ -1,6 +1,6 @@
 # waveSharp 002_3 DEMO application (2022-dec-25)
 
-## update on 2022-12-25
+## status update on 2022-12-25
 
 We have started testing the initial setup to allow batch processing of images, this is still only PNG and TIFF based. All settings you can currently alter in waveSharp are available during batch processing.
 
