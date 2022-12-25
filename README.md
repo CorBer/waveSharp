@@ -2,7 +2,7 @@
 
 ## status update on 2022-12-25
 
-We have started testing the initial setup to allow batch processing of images, this is still only PNG and TIFF based. All settings you can currently alter in waveSharp are available during batch processing.
+We have started testing the initial setup to allow batch processing of images, this is still only PNG and TIFF based. All settings you can currently alter in waveSharp will be available during batch processing.
 
 The batch-processing can be used to either:
 1) create a set of sharpened/colour-balanced files for later use (in the same format as the original)
