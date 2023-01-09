@@ -1,7 +1,7 @@
 # waveSharp 0_1 prototype application (2023-jan-07)
 
 ## second release 2023-jan-07 (currently WIN64 only, LINUX/MAC release pending)
-downloads available at https://github.com/CorBer/waveSharp/releases/tag/v0_1
+latest download available at https://github.com/CorBer/waveSharp/releases/tag/v0_1
 
 report your issues using https://github.com/CorBer/waveSharp/issues
 
