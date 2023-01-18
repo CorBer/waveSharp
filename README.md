@@ -1,7 +1,9 @@
 # waveSharp 0_1 prototype<br> (stable release 2023-jan-07, development release 2023-jan-13)
+## development release 2023-jan-18 (only WIN64, LINUX)
+latest development version (0.1.0.20) available at https://github.com/CorBer/waveSharp/releases/tag/v0_1R5
 
 ## development release 2023-jan-13 (only WIN64, LINUX)
-latest development version (0.1.0.19) available at https://github.com/CorBer/waveSharp/releases/tag/v0_1R4
+development version (0.1.0.19) available at https://github.com/CorBer/waveSharp/releases/tag/v0_1R5
 
 ## second release 2023-jan-07 (all OS)
 latest stable version available at https://github.com/CorBer/waveSharp/releases/tag/v0_1
