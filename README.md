@@ -1,4 +1,16 @@
 # waveSharp 0_1 prototype<br> (stable release 2023-jan-07, development release 2023-jan-13)
+
+## status update 2023-jan-20
+We are since the release of 0.1 working on 0.2.
+This update will most likely have the following additional features
+- user set processing area  
+- cropped image saving
+- resized image saving
+- image edge padding/trimming 
+- alignment of RGB channels (at subpixel level)
+- new sharpening method (bilateral filter)
+- automatic version checking
+
 ## development release 2023-jan-18 (only WIN64, LINUX)
 latest development version (0.1.0.20) available at https://github.com/CorBer/waveSharp/releases/tag/v0_1R5
 
