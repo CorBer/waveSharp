@@ -1,6 +1,11 @@
 # waveSharp 0_1 prototype<br> (stable release 2023-jan-07, development release 2023-jan-13)
+# feedback request
+Although several hundred people have downloaded the freeware only a few have submitted 
+issues/discussions. <br>
+## <b>Please participate to improve the freeware </b>.
 
-## status update 2023-jan-20
+
+# status update 2023-jan-20
 We are since the release of 0.1 working on 0.2.
 This update will most likely have the following additional features
 - user set processing area  
@@ -11,13 +16,13 @@ This update will most likely have the following additional features
 - new sharpening method (bilateral filter)
 - automatic version checking
 
-## development release 2023-jan-18 (only WIN64, LINUX)
+# development release 2023-jan-18 (only WIN64, LINUX)
 latest development version (0.1.0.20) available at https://github.com/CorBer/waveSharp/releases/tag/v0_1R5
 
-## development release 2023-jan-13 (only WIN64, LINUX)
+# development release 2023-jan-13 (only WIN64, LINUX)
 development version (0.1.0.19) available at https://github.com/CorBer/waveSharp/releases/tag/v0_1R5
 
-## second release 2023-jan-07 (all OS)
+# second release 2023-jan-07 (all OS)
 latest stable version available at https://github.com/CorBer/waveSharp/releases/tag/v0_1
 
 report your issues using https://github.com/CorBer/waveSharp/issues
