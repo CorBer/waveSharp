@@ -1,4 +1,4 @@
-# waveSharp 0_1 prototype<br> (stable release 2023-jan-07, development release 2023-jan-13)
+# waveSharp 0_1 prototype<br> (stable release 2023-jan-07, development release 2023-jan-20)
 # feedback request
 Although several hundred people have downloaded the freeware only a few have submitted 
 issues/discussions. <br>
