@@ -6,7 +6,7 @@ report your issues using https://github.com/CorBer/waveSharp/issues
 
 # Version 0.2 PENDING (status update 2023-jan-28)
 In the coming week (ending beginning february) we intend to release wavesharp 0.2
-
+![](images/ws.png?raw=true)
 # Version 0.2 status update 2023-jan-20
 We are since the release of 0.1 working on 0.2.
 This update will most likely have the following additional features
