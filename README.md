@@ -4,7 +4,12 @@ Although several hundred people have downloaded the freeware only a few have sub
 issues/discussions. <br>
 report your issues using https://github.com/CorBer/waveSharp/issues
 
+# Version 0.2 documentation 
+New documentation of the features in V0.2 is available
+https://github.com/CorBer/waveSharp/blob/main/temporary/InterFacev_02.pdf
+
 # Version 0.2 PENDING (status update 2023-jan-28)
+
 In the coming week (ending beginning february) we intend to release wavesharp 0.2
 ![](images/ws.png?raw=true)
 # Version 0.2 status update 2023-jan-20
