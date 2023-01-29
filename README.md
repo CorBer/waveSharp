@@ -6,7 +6,7 @@ report your issues using https://github.com/CorBer/waveSharp/issues
 
 # Version 0.2 documentation 
 New documentation of the features in V0.2 is available
-https://github.com/CorBer/waveSharp/blob/main/temporary/InterFacev_02.pdf
+https://github.com/CorBer/waveSharp/releases/download/v0_2/InterFacev_02.pdf
 
 # Version 0.2 PENDING (status update 2023-jan-28)
 
