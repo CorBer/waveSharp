@@ -8,16 +8,15 @@ The development of this release of waveSharp was done in close collaboration wit
 - Cheng-Yang Tan
 - Don Capone
 
-![](images/ws.png?raw=true)
-
-# report issues
-Although several hundred people have downloaded the freeware only a few have submitted 
-issues/discussions. <br>
-report your issues using https://github.com/CorBer/waveSharp/issues
-
 # Version 0.2 documentation 
 New documentation of the features in V0.2 is available
 https://github.com/CorBer/waveSharp/releases/download/v0_2/InterFacev_02.pdf
+![](images/ws.png?raw=true)
+
+# please report issues
+Although several hundred people have downloaded the freeware only a few have submitted 
+issues/discussions. <br>
+report your issues using https://github.com/CorBer/waveSharp/issues
 
 # Version 0.2 status update 2023-jan-20
 We are since the release of 0.1 working on 0.2.
