@@ -1,5 +1,8 @@
-# stable release waveSharp 0.1 prototype (stable version 2023-jan-07, development 2023-jan-18)
-# feedback request
+# release waveSharp 0.2 prototype pending (2023-01-31)
+We are about to release version 0.2   
+![](images/ws.png?raw=true)
+
+# report issues
 Although several hundred people have downloaded the freeware only a few have submitted 
 issues/discussions. <br>
 report your issues using https://github.com/CorBer/waveSharp/issues
@@ -8,10 +11,6 @@ report your issues using https://github.com/CorBer/waveSharp/issues
 New documentation of the features in V0.2 is available
 https://github.com/CorBer/waveSharp/releases/download/v0_2/InterFacev_02.pdf
 
-# Version 0.2 PENDING (status update 2023-jan-28)
-
-In the coming week (ending beginning february) we intend to release wavesharp 0.2
-![](images/ws.png?raw=true)
 # Version 0.2 status update 2023-jan-20
 We are since the release of 0.1 working on 0.2.
 This update will most likely have the following additional features
