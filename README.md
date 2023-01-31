@@ -1,5 +1,13 @@
-# release waveSharp 0.2 prototype pending (2023-01-31)
-We are about to release version 0.2   
+# release waveSharp 0.2 prototype (2023-01-31)
+Available at https://github.com/CorBer/waveSharp/releases/tag/v0_2
+The development of this release of waveSharp was done in close collaboration with:
+
+- Grant Blair
+- Michael Owen
+- Filip Szczerek
+- Cheng-Yang Tan
+- Don Capone
+
 ![](images/ws.png?raw=true)
 
 # report issues
@@ -35,13 +43,7 @@ report your issues using https://github.com/CorBer/waveSharp/issues
 
 This is the second release (freeware) of the waveSharp project.  The aim of this project is to recreate the RegiStax6(RS6) wavelet sharpening module.  RS6 was developed in 2011 only for windows 32bit computers, waveSharp is developed for 64bit computers and multiple operating systems (WIN64, LINUX, MACOS). Therefore this application is only meant to sharpen/enhance images that have been created using other software (alignment/stacking). 
 
-The development of this release of waveSharp was done in close collaboration with:
 
-- Grant Blair
-- Michael Owen
-- Filip Szczerek
-- Cheng-Yang Tan
-- Don Capone
 
 I want to thank them first of all for helping me get started and spending part of their free time on this. They have tested many earlier versions of the application and provided both help/bugs and ideas that helped me steering this project.  
 
