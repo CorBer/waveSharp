@@ -8,6 +8,15 @@ The development of this release of waveSharp was done in close collaboration wit
 - Cheng-Yang Tan
 - Don Capone
 
+This update has the following additional features
+- user set processing area  
+- cropped image saving
+- resized image saving
+- image edge padding/trimming 
+- alignment of RGB channels (at subpixel level)
+- new sharpening method (bilateral filter)
+- automatic version checking
+
 # Version 0.2 documentation 
 New documentation of the features in V0.2 is available
 https://github.com/CorBer/waveSharp/releases/download/v0_2/InterFacev_02.pdf
@@ -17,23 +26,6 @@ https://github.com/CorBer/waveSharp/releases/download/v0_2/InterFacev_02.pdf
 Although several hundred people have downloaded the freeware only a few have submitted 
 issues/discussions. <br>
 report your issues using https://github.com/CorBer/waveSharp/issues
-
-# Version 0.2 status update 2023-jan-20
-We are since the release of 0.1 working on 0.2.
-This update will most likely have the following additional features
-- user set processing area  
-- cropped image saving
-- resized image saving
-- image edge padding/trimming 
-- alignment of RGB channels (at subpixel level)
-- new sharpening method (bilateral filter)
-- automatic version checking
-
-# Version 0.1 development release 2023-jan-18 (only WIN64, LINUX)
-latest development version (0.1.0.20) available at https://github.com/CorBer/waveSharp/releases/tag/v0_1R5
-
-# Version 0.1 development release 2023-jan-13 (only WIN64, LINUX)
-development version (0.1.0.19) available at https://github.com/CorBer/waveSharp/releases/tag/v0_1R5
 
 # second release 2023-jan-07 (all OS)
 latest stable version available at https://github.com/CorBer/waveSharp/releases/tag/v0_1
