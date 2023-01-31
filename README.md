@@ -1,4 +1,4 @@
-# release waveSharp 0.2 prototype (2023-01-31)
+# waveSharp 0.2 prototype released (2023-01-31)
 Available at https://github.com/CorBer/waveSharp/releases/tag/v0_2 <br>
 The development of this release of waveSharp was done in close collaboration with:
 
