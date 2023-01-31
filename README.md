@@ -1,5 +1,5 @@
 # release waveSharp 0.2 prototype (2023-01-31)
-Available at https://github.com/CorBer/waveSharp/releases/tag/v0_2
+Available at https://github.com/CorBer/waveSharp/releases/tag/v0_2 <br>
 The development of this release of waveSharp was done in close collaboration with:
 
 - Grant Blair
