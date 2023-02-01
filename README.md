@@ -1,6 +1,5 @@
 # waveSharp 0.2 prototype released (2023-01-31)
 Available at https://github.com/CorBer/waveSharp/releases/tag/v0_2 <br>
-This release currently is Linux and Windows only, a version for the Mac is pending.
 
 The development of this release of waveSharp was done by Cor Berrevoets 
 in close collaboration with:
