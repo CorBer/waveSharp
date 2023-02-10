@@ -1,6 +1,12 @@
 # waveSharp 0.2 prototype released (2023-01-31)
 Available at https://github.com/CorBer/waveSharp/releases/tag/v0_2 <br>
 
+# please report issues
+Although several hundred people have downloaded the freeware only a few have submitted 
+issues/discussions. <br>
+report your issues using https://github.com/CorBer/waveSharp/issues
+
+# made by
 The development of this release of waveSharp was done by Cor Berrevoets 
 in close collaboration with:
 
@@ -28,13 +34,9 @@ New documentation of the features in V0.2 is available
 https://github.com/CorBer/waveSharp/releases/download/v0_2/InterFacev_02.pdf
 ![](images/ws.png?raw=true)
 
-# please report issues
-Although several hundred people have downloaded the freeware only a few have submitted 
-issues/discussions. <br>
-report your issues using https://github.com/CorBer/waveSharp/issues
 
-# second release 2023-jan-07 (all OS)
-stable version available at https://github.com/CorBer/waveSharp/releases/tag/v0_1
+# older release 2023-jan-07 (all OS)
+version available at https://github.com/CorBer/waveSharp/releases/tag/v0_1
 
 This is the second release (freeware) of the waveSharp project.  The aim of this project is to recreate the RegiStax6(RS6) wavelet sharpening module.  RS6 was developed in 2011 only for windows 32bit computers, waveSharp is developed for 64bit computers and multiple operating systems (WIN64, LINUX, MACOS). Therefore this application is only meant to sharpen/enhance images that have been created using other software (alignment/stacking). 
 
