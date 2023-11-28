@@ -1,3 +1,7 @@
+
+# waveSharp 1.0 beta release pending (2023-11-28)
+We are currently finishing work on the 1st beta-release of waveSharp. 
+
 # waveSharp 0.2 prototype released (2023-01-31)
 Available at https://github.com/CorBer/waveSharp/releases/tag/v0_2 <br>
 
