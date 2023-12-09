@@ -3,6 +3,7 @@
 On the 9th of december 2023 we have released the 1st beta-version of waveSharp 1.0 
 Further information available at https://github.com/CorBer/waveSharp/releases/tag/v1.0beta <br>
 
+![waveSharp 1.0 team](/../main/images/wavesharpv1_0beta.png)
 
 # waveSharp 0.2 prototype released (2023-01-31)
 Available at https://github.com/CorBer/waveSharp/releases/tag/v0_2 <br>
