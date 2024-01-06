@@ -14,7 +14,7 @@ issues/discussions. <br>
 report your issues using https://github.com/CorBer/waveSharp/issues
 
 # made by
-The development of this release of waveSharp was done by Cor Berrevoets 
+The development of the 0.2 release of waveSharp was done by Cor Berrevoets 
 in close collaboration with:
 
 - Grant Blair
