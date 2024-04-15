@@ -1,3 +1,10 @@
+# please report issues (2024 04 15(
+Although several thousand people have downloaded the freeware only a few have submitted 
+issues/discussions. <br>
+report your issues using https://github.com/CorBer/waveSharp/issues as they will be used for
+further development. If you have very specific ideas/request please describe those in detail
+when reporting.
+
 
 # waveSharp 1.0 beta released (2023-12-09)
 On the 9th of december 2023 we have released the 1st beta-version of waveSharp 1.0 
@@ -8,10 +15,6 @@ Further information available at https://github.com/CorBer/waveSharp/releases/ta
 # waveSharp 0.2 prototype released (2023-01-31)
 Available at https://github.com/CorBer/waveSharp/releases/tag/v0_2 <br>
 
-# please report issues
-Although several hundred people have downloaded the freeware only a few have submitted 
-issues/discussions. <br>
-report your issues using https://github.com/CorBer/waveSharp/issues
 
 # made by
 The development of the 0.2 release of waveSharp was done by Cor Berrevoets 
