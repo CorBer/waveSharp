@@ -1,4 +1,4 @@
-# please report issues (2024 04 15(
+# please report issues (2024 04 15)
 Although several thousand people have downloaded the freeware only a few have submitted 
 issues/discussions. <br>
 report your issues using https://github.com/CorBer/waveSharp/issues as they will be used for
