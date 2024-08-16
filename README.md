@@ -1,3 +1,10 @@
+# waveSharp development tests with Python (2024 08 16)
+The code for waveSharp is written in Pascal/Lazarus and although thats a "compiled" language
+it seems that its not the fastest for certain tasks we do. During the development of the denoising
+routine we found that it is slow and limited (up to 4096x4096px images). Currently we are testing a
+new way to run waveSharp using Python code. This allows us to use fast and speed-optimized calculation routines
+Python has available from several libraries.
+
 # please report issues (2024 04 15)
 Although several thousand people have downloaded the freeware only a few have submitted 
 issues/discussions. <br>
