@@ -1,5 +1,5 @@
-# waveSharp development looking for testers (2024 08  27)
-We are looking for waveSharp users that want to help testing/developing the application to develop new
+# waveSharp looking for testers (2024 08  27)
+We are looking for waveSharp users that want to help testing the application to develop new
 options and optimize the current setup.  
 If you are interested mail me: registax at gmail dot com.
 
