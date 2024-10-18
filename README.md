@@ -1,6 +1,4 @@
-# waveSharp looking for testers (2024 08  27)
-We are looking for waveSharp users that want to help testing the application to develop new
-options and optimize the current setup.  If you are interested mail me: <b><i>registax at gmail dot com</i></b>
+
 
 # waveSharp development tests with Python (2024 08 16)
 The code for waveSharp is written in Pascal/Lazarus and although thats a "compiled" language
