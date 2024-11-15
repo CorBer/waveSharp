@@ -1,3 +1,5 @@
+# waveSharp development in the final stages (2024 11 15)
+Since august we have been working on a new version of waveSharp based on python-libraries
 
 
 # waveSharp development tests with Python (2024 08 16)
