@@ -1,5 +1,8 @@
 # waveSharp development in the final stages (2024 11 15)
-Since august we have been working on a new version of waveSharp based on python-libraries
+Since august we have been working on a new version of waveSharp based on python-libraries. We are expecting
+to release the next version early december. We have redesigned both the interface and functionality and this release
+also comes with a set of completely new routines. You can for instance show dim moons around a planet without changing the planet
+itself.
 
 
 # waveSharp development tests with Python (2024 08 16)
