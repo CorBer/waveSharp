@@ -1,3 +1,6 @@
+# waveSharp development tools
+WaveSharp was Built using only free tools. The sourcecode for all versions was build using the Lazarus IDE (https://www.lazarus-ide.org/) and using the FreePascalCompiler(https://www.freepascal.org/) these free and well designed tools have allowed me to create at the same time windows and linux versions. In the new V2 version we will also be using python(https://www.python.org/) as a workhorse for more complex operations that would be either difficult to design in pascal or are too slow. To do this needed a bridge between Lazarus/FreePascal and Python to allow fast/easy flow of data. The Python4Delphi (https://github.com/pyscripter/python4delphi) libraries/components have proven to allow all of this. I want to thank all the developers involved in creating/providing all of the above (free) tools.
+
 # waveSharp development final stages (2024 11 15)
 Since august we have been working on a new version of waveSharp based on python-libraries. We are expecting
 to release the next version early december. We have redesigned both the interface and functionality and this release
