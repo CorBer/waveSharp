@@ -3,6 +3,7 @@ WaveSharp was Built using only free tools. The sourcecode for all versions was b
 I want to thank all the developers involved in creating/providing all of the above (free) tools. 
 
 # waveSharp development final stages (2024 11 15)
+![waveSharp 1.0 team](/../main/images/wavesharp.ico)
 Since august we have been working on a new version of waveSharp based on python-libraries. We are expecting
 to release the next version early december. We have redesigned both the interface and functionality and this release
 also comes with a set of completely new routines. You can for instance show dim moons around a planet without changing the planet
