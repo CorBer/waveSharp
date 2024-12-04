@@ -1,6 +1,6 @@
 # ![x](/../main/images/waveSharp2.ico) waveSharp2 release pending (2024 12 03)
 We expect to release waveSharp the latest in the upcoming week. More information on how to install (windows and Linux) will be added as soon as possible. 
-The development-team is also working on both general and more specific documentation. That documentation will show how to use the new tools in more detail(recipes) but also explain how the interface works. 
+The development-team is also working on both general and more specific documentation. That documentation will show how to use the new tools in more detail(recipes) but also explain how the interface works. See https://github.com/CorBer/waveSharp/releases
 
 
 # waveSharp2 development tools (2024 11 21)
