@@ -21,6 +21,13 @@ routine we found that it is slow and limited (up to 4096x4096px images). Current
 new way to run waveSharp using Python code. This allows us to use fast and speed-optimized calculation routines
 Python has available from several libraries. 
 
+
+
+
+
+
+
+
 # waveSharp 1.0 beta released (2023-12-09)
 On the 9th of december 2023 we have released the 1st beta-version of waveSharp 1.0 
 Further information available at https://github.com/CorBer/waveSharp/releases/tag/v1.0beta <br>
