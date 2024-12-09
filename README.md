@@ -1,6 +1,5 @@
 # ![x](/../main/images/waveSharp2.ico) waveSharp2 release available (2024 12 06)
-We have released the "early-bird" version of waveSharp2 today. 
-Information on how to download/install (windows and Linux) has been added (see https://github.com/CorBer/waveSharp/releases). As the development-team is still working on both general and more specific documentation the "official" announcement for this release is planned on the 9th of december. The upcoming documentation will show how to use the new tools in more detail(recipes) but also explain how the interface works.
+Information on how to download/install (windows and Linux) is available see https://github.com/CorBer/waveSharp/releases. The development-team is still working on both general and more specific documentation for this release. This upcoming documentation will show how to use the new tools in more detail(recipes) but also explain how the interface works.
 ![waveSharp 2.0 team](/../main/images/about.png)
 
 # waveSharp2 development tools (2024 11 21)
