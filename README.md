@@ -4,7 +4,7 @@ Today one year has passed since we released waveSharp1. Information on how to do
 The largest changes in this version:
   - python is used for most calculations
   - the default colour-model is OKlab (see https://bottosson.github.io/posts/oklab/)
-  - RGB balance (in the histogram) can be used with a threshold
+  - RGB balance (in the histogram) can be used with a threshold ![doc](/../main/documentation/RGBBalance_threshold.pdf)
   - BackGround Enhance tool allows to brighten moons around planets without affecting the planet
   - De-Rind Tool allows to soften the sometimes visible rind on the edge of planets
   - Disable Background tool allows inspecting the image in new ways
