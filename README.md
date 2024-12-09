@@ -1,17 +1,16 @@
 # ![x](/../main/images/waveSharp2.ico) waveSharp2 release available (2024 12 09)
 Today one year has passed since we released waveSharp1. Information on how to download/install (windows and Linux) is available see https://github.com/CorBer/waveSharp/releases. The development-team is still working on both general and more specific documentation for this release. This upcoming documentation will show how to use the new tools in more detail(recipes) but also explain how the interface works.
 
-The largest changes in this version :
+The largest changes in this version (initial documentation can be found ![HERE](/../main/documentation/) ) :
   - python is used for most calculations
   - the default colour-model is OKlab (see https://bottosson.github.io/posts/oklab/)
-  - RGB balance (in the histogram) can be used with a threshold ![See documentation](/../main/documentation/RGBalance_threshold.pdf)
+  - RGB balance (in the histogram) can be used with a threshold ![See](/../main/documentation/RGBalance_threshold.pdf)
   - BackGround Enhance tool allows to brighten moons around planets without affecting the planet
   - De-Rind Tool allows to soften the sometimes visible rind on the edge of planets
   - Disable Background tool allows inspecting the image in new ways
   - Batchprocessing allows images to be derotated/aligned based on a user choosen reference-image
   - Animations can use pause-sections (both after the forward and after the reverse)
-
-
+  - Many GUI functions have been generalized ![See](/../main/documentation/GUI.pdf)
 
 ![waveSharp 2.0 team](/../main/images/about.png)
 
