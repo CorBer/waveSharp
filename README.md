@@ -13,6 +13,8 @@ The largest changes in this version (initial documentation can be found ![HERE](
   - Animations can use pause-sections (both after the forward and after the reverse)
   - Many GUI functions have been generalized ![See](/../main/documentation/GUI.pdf)
 
+<br><br>
+
 ![waveSharp 2.0 team](/../main/images/about.png)
 
 # waveSharp2 development tools (2024 11 21)
