@@ -5,6 +5,7 @@ The largest changes in this version (initial documentation can be found ![HERE](
   - python is used for most calculations
   - the default colour-model is OKlab (see https://bottosson.github.io/posts/oklab/)
   - RGB balance (in the histogram) can be used with a threshold ![See](/../main/documentation/RGBalance_threshold.pdf)
+  - Denoising has been improved (also works for larger images and is a lot faster) and is easier to use 
   - BackGround Enhance tool allows to brighten moons around planets without affecting the planet
   - De-Rind Tool allows to soften the sometimes visible rind on the edge of planets
   - Disable Background tool allows inspecting the image in new ways
