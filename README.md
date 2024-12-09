@@ -1,7 +1,7 @@
 # ![x](/../main/images/waveSharp2.ico) waveSharp2 release available (2024 12 09)
 Today one year has passed since we released waveSharp1. Information on how to download/install (windows and Linux) is available see https://github.com/CorBer/waveSharp/releases. The development-team is still working on both general and more specific documentation for this release. This upcoming documentation will show how to use the new tools in more detail(recipes) but also explain how the interface works.
 
-The largest changes in this version (initial documentation(Work in progress) can be found ![HERE](/../main/documentation/) ) :
+The largest changes in this version (initial documentation(**Work in progress**) can be found ![HERE](/../main/documentation/) ) :
   - python is used for most calculations
   - the default colour-model is OKlab (see https://bottosson.github.io/posts/oklab/)
   - RGB balance (in the histogram) can be used with a threshold ![See](/../main/documentation/RGBalance_threshold.pdf)
