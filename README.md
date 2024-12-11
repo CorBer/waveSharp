@@ -3,17 +3,14 @@ Today one year has passed since we released waveSharp1. Information on how to do
 
 **UPDATE**: The following (concept) HOW-To documents are now available for download:<br>
 From Don:
-
 - ![Animation](https://github.com/CorBer/waveSharp/releases/download/v2.0/HOW-To.Animation.pdf)
 - ![Background enhancement](https://github.com/CorBer/waveSharp/releases/download/v2.0/How-To.BackgroundEnhance.pdf)
 - ![De-Rind](https://github.com/CorBer/waveSharp/releases/download/v2.0/How-To.DeRIND.pdf)
 
 From Grant:
-
 - ![HistoGram](https://github.com/CorBer/waveSharp/releases/download/v2.0/How-To.HISTOGRAM.pdf)
 
 From Mike:
-
 - ![FFT_Denoise](https://github.com/CorBer/waveSharp/releases/download/v2.0/HowTo_Denoise.pdf)
 - ![Processing Tabs](https://github.com/CorBer/waveSharp/releases/download/v2.0/HowToProcessingTabs.pdf)
 
