@@ -2,10 +2,20 @@
 Today one year has passed since we released waveSharp1. Information on how to download/install (windows and Linux) is available see https://github.com/CorBer/waveSharp/releases. The development-team is still working on both general and more specific documentation for this release. A first concept of that documentation can be [Downloaded](https://github.com/CorBer/waveSharp/releases/download/v2.0/waveSharp.v2.0.Documentation.pdf)  will show how to use the new tools in more detail(recipes) but also explain how the interface works.
 
 **UPDATE**: The following (concept) HOW-To documents are now available for download:<br>
-  ![Animation](https://github.com/CorBer/waveSharp/releases/download/v2.0/HOW-To.Animation.pdf)<br>
-  ![Background enhancement](https://github.com/CorBer/waveSharp/releases/download/v2.0/How-To.BackgroundEnhance.pdf)<br>
-  ![De-Rind](https://github.com/CorBer/waveSharp/releases/download/v2.0/How-To.DeRIND.pdf)<br>
-  ![HistoGram](https://github.com/CorBer/waveSharp/releases/download/v2.0/How-To.HISTOGRAM.pdf)<br>
+From Don:
+
+- ![Animation](https://github.com/CorBer/waveSharp/releases/download/v2.0/HOW-To.Animation.pdf)
+- ![Background enhancement](https://github.com/CorBer/waveSharp/releases/download/v2.0/How-To.BackgroundEnhance.pdf)
+- ![De-Rind](https://github.com/CorBer/waveSharp/releases/download/v2.0/How-To.DeRIND.pdf)
+
+From Grant:
+
+- ![HistoGram](https://github.com/CorBer/waveSharp/releases/download/v2.0/How-To.HISTOGRAM.pdf)
+
+From Mike:
+
+- ![FFT_Denoise](https://github.com/CorBer/waveSharp/releases/download/v2.0/HowTo_Denoise.pdf)
+- ![Processing Tabs](https://github.com/CorBer/waveSharp/releases/download/v2.0/HowToProcessingTabs.pdf)
 
 
 The largest changes in this version (initial documentation(**Work in progress**) can be found ![HERE](/../main/documentation/) ) :
