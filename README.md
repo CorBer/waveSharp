@@ -2,9 +2,9 @@
 Today one year has passed since we released waveSharp1. Information on how to download/install (windows and Linux) is available see https://github.com/CorBer/waveSharp/releases. The development-team is still working on both general and more specific documentation for this release. 
 
 **UPDATE concept documentation**<br>
-A first concept of the ![GUI documentation](https://github.com/CorBer/waveSharp/releases/download/v2.0/waveSharp.v2.0.Documentation.pdf) 
+The ![GUI documentation](https://github.com/CorBer/waveSharp/releases/download/v2.0/waveSharp.v2.0.Documentation.pdf) 
 
-The following (concept) HOW-To documents are now available for download
+The following HOW-To documents are now available for download
 From Don:
 - ![Animation](https://github.com/CorBer/waveSharp/releases/download/v2.0/HOW-To.Animation.pdf)
 - ![Background enhancement](https://github.com/CorBer/waveSharp/releases/download/v2.0/How-To.BackgroundEnhance.pdf)
