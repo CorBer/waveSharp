@@ -4,7 +4,7 @@ Today one year has passed since we released waveSharp1. Information on how to do
 **UPDATE concept documentation**<br>
 The ![GUI documentation](https://github.com/CorBer/waveSharp/releases/download/v2.0/waveSharp.v2.0.Documentation.pdf) 
 
-The following HOW-To documents are now available for download
+The following HOW-To documents are now available for download<br>
 From Don:
 - ![Animation](https://github.com/CorBer/waveSharp/releases/download/v2.0/HOW-To.Animation.pdf)
 - ![Background enhancement](https://github.com/CorBer/waveSharp/releases/download/v2.0/How-To.BackgroundEnhance.pdf)
