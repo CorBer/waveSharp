@@ -18,7 +18,7 @@ From Mike:
 - ![Processing Tabs](https://github.com/CorBer/waveSharp/releases/download/v2.0/HowToProcessingTabs.pdf)
 
 
-The largest changes in this version can be found ![HERE](/../main/documentation/)  :
+The largest changes in this version :
   - python is used for most calculations
   - the default colour-model is OKlab (see https://bottosson.github.io/posts/oklab/)
   - RGB balance (in the histogram) can be used with a threshold 
