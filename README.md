@@ -1,3 +1,6 @@
+# waveSharp3 release in final stages (2025 11 09)
+The past months the testing team has been using/testing a new version of waveSharp. We plan to release waveSharp 3 on the 9th of december 2025
+
 # ![x](/../main/images/waveSharp2.ico) waveSharp2 release available (2024 12 09)
 Today one year has passed since we released waveSharp1. Information on how to download/install (windows and Linux) is available see https://github.com/CorBer/waveSharp/releases.  
 
