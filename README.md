@@ -1,4 +1,6 @@
 # ![x](/../main/images/waveSharp3.ico) waveSharp3 release pending 
+![x](/../main/images/aboutws3.webp)<br>
+
 The past months the testing team has been using/testing a new version of waveSharp.<br> 
 We will release waveSharp 3 on the **9th of december 2025**.<br>
 More release information is available from:<br> 
