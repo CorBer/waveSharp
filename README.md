@@ -1,12 +1,10 @@
 # ![x](/../main/images/waveSharp3.ico) waveSharp3 release pending (2025 12 08)
 The past months the testing team has been using/testing a new version of waveSharp.<br> 
 We will release waveSharp 3 on the **9th of december 2025**.<br>
-A list of changes is available (last updated 20251208) <br>
 
-see https://github.com/CorBer/waveSharp/releases/download/v3.0/list_of_changes_20251208.pdf<br>
-
-More information (including installation instructions) can be found on (work in progress)<br>
-https://github.com/CorBer/waveSharp/releases/tag/v3.0
+Ahead of the release we allready have the following documentation available:
+- ![list of changes in WS3](https://github.com/CorBer/waveSharp/releases/download/v3.0/list_of_changes_20251208.pdf)
+- ![installation guide for windows and linux](https://github.com/CorBer/waveSharp/releases/download/v3.0/WS3_InstallationGuide_20251208.pdf)
 
 
 # ![x](/../main/images/waveSharp2.ico) waveSharp2 release available (2024 12 09)
