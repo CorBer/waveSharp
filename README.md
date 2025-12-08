@@ -1,4 +1,4 @@
-# ![x](/../main/images/waveSharp3.ico) waveSharp3 release pending (2025 12 07)
+# ![x](/../main/images/waveSharp3.ico) waveSharp3 release pending (2025 12 08)
 The past months the testing team has been using/testing a new version of waveSharp.<br> 
 We plan to release waveSharp 3 on the **9th of december 2025**.<br>
 A list of changes is available (last updated 20251208) <br>
