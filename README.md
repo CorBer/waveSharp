@@ -1,6 +1,8 @@
 # ![x](/../main/images/waveSharp3.ico) waveSharp3 release pending 
 The past months the testing team has been using/testing a new version of waveSharp.<br> 
 We will release waveSharp 3 on the **9th of december 2025**.<br>
+The release information is allready available from:<br> 
+https://github.com/CorBer/waveSharp/releases
 
 Ahead of the release we allready have the following documentation available:
 - ![list of changes in WS3](https://github.com/CorBer/waveSharp/releases/download/v3.0/list_of_changes_20251208.pdf)
