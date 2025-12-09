@@ -3,7 +3,7 @@
 
 We have released waveSharp 3 on the **9th of december 2025 09_00 local time (Netherlands)**.<br><br>
 The past months the testing team has been using/testing a new version of waveSharp.<br> 
-More information on this release is available from:<br> 
+## More information on this release is available from:<br> 
 https://github.com/CorBer/waveSharp/releases
 
 We also have the following documentation available:
