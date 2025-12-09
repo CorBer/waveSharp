@@ -6,7 +6,7 @@ The past months the testing team has been using/testing a new version of waveSha
 More information on this release is available from:<br> 
 https://github.com/CorBer/waveSharp/releases
 
-Ahead of the release we have the following documentation available:
+We also have the following documentation available:
 - ![list of changes in WS3](https://github.com/CorBer/waveSharp/releases/download/v3.0/list_of_changes_20251208.pdf)
 - ![installation guide for windows and linux](https://github.com/CorBer/waveSharp/releases/download/v3.0/WS3_InstallationGuide_20251208.pdf)
 
