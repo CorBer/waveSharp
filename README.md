@@ -1,9 +1,9 @@
-# ![x](/../main/images/waveSharp3.ico) waveSharp3 release 2025 12 09
+# ![x](/../main/images/waveSharp3.ico) waveSharp3 released (2025 12 09)
 ![x](/../main/images/aboutws3.webp)<br>
 
+We have released waveSharp 3 on the **9th of december 2025 09_00 local time (Netherlands)**.<br><br>
 The past months the testing team has been using/testing a new version of waveSharp.<br> 
-We will release waveSharp 3 on the **9th of december 2025 09_00 local time (Netherlands)**.<br><br>
-More release information is available from:<br> 
+More information on this release is available from:<br> 
 https://github.com/CorBer/waveSharp/releases
 
 Ahead of the release we have the following documentation available:
