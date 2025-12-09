@@ -1,4 +1,4 @@
-# ![x](/../main/images/waveSharp3.ico) waveSharp3 release pending 
+# ![x](/../main/images/waveSharp3.ico) waveSharp3 release 2025 12 09
 ![x](/../main/images/aboutws3.webp)<br>
 
 The past months the testing team has been using/testing a new version of waveSharp.<br> 
