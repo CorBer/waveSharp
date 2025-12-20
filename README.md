@@ -9,7 +9,7 @@ https://github.com/CorBer/waveSharp/releases
 We also have the following documentation available:
 - ![list of changes in WS3](https://github.com/CorBer/waveSharp/releases/download/v3.0/list_of_changes_20251208.pdf)
 - ![installation guide for windows and linux](https://github.com/CorBer/waveSharp/releases/download/v3.0/WS3_InstallationGuide_20251208.pdf)
-
+- ![Reference Guide](https://github.com/CorBer/waveSharp/releases/download/v3.0/WaveSharp.3.Documentation.-.Reference.Guide.20251218.pdf) 
 <br>
 <br>
 
