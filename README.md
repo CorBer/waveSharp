@@ -13,32 +13,6 @@ Today one year has passed since we released waveSharp1. Information on how to do
 **documentation**<br>
 The ![GUI documentation](https://github.com/CorBer/waveSharp/releases/download/v2.0/waveSharp.v2.0.Documentation.pdf) 
 
-The following HOW-To documents are available for download<br>
-From Don:
-- ![Animation](https://github.com/CorBer/waveSharp/releases/download/v2.0/HOW-To.Animation.pdf)
-- ![Background enhancement](https://github.com/CorBer/waveSharp/releases/download/v2.0/How-To.BackgroundEnhance.pdf)
-- ![De-Rind](https://github.com/CorBer/waveSharp/releases/download/v2.0/How-To.DeRIND.pdf)
-
-From Grant:
-- ![HistoGram](https://github.com/CorBer/waveSharp/releases/download/v2.0/How-To.HISTOGRAM.pdf)
-
-From Mike:
-- ![FFT_Denoise](https://github.com/CorBer/waveSharp/releases/download/v2.0/HowTo_Denoise.pdf)
-- ![Processing Tabs](https://github.com/CorBer/waveSharp/releases/download/v2.0/HowToProcessingTabs.pdf)
-
-
-The largest changes in this version :
-  - python is used for most calculations
-  - the default colour-model is OKlab (see https://bottosson.github.io/posts/oklab/)
-  - RGB balance (in the histogram) can be used with a threshold 
-  - Denoising has been improved (also works for larger images and is a lot faster) and is easier to use 
-  - BackGround Enhance tool allows to brighten moons around planets without affecting the planet 
-  - De-Rind Tool allows to soften the sometimes visible rind on the edge of planets
-  - Disable Background tool allows inspecting the image in new ways
-  - Batchprocessing allows images to be derotated/aligned based on a user choosen reference-image
-  - Animations can use pause-sections (both after the forward and after the reverse)
-  - Many GUI functions have been generalized 
-
 <br><br>
 
 # waveSharp2 development tools (2024 11 21)
