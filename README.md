@@ -10,9 +10,6 @@ https://github.com/CorBer/waveSharp/releases
 # ![x](/../main/images/waveSharp2.ico) waveSharp2 release available (2024 12 09)
 Today one year has passed since we released waveSharp1. Information on how to download/install (windows and Linux) is available see https://github.com/CorBer/waveSharp/releases.  
 
-**documentation**<br>
-The ![GUI documentation](https://github.com/CorBer/waveSharp/releases/download/v2.0/waveSharp.v2.0.Documentation.pdf) 
-
 <br><br>
 
 # waveSharp2 development tools (2024 11 21)
