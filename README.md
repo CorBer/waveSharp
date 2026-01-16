@@ -2,7 +2,6 @@
 ![x](/../main/images/aboutws3.webp)<br>
 
 We have released waveSharp 3 on the **9th of december 2025 09_00 local time (Netherlands)**.<br><br>
-The past months the testing team has been using/testing a new version of waveSharp.<br> 
 ## More information on this release is available from:<br> 
 https://github.com/CorBer/waveSharp/releases
 
@@ -14,7 +13,7 @@ https://github.com/CorBer/waveSharp/releases
 <br><br>
 
 # ![x](/../main/images/waveSharp2.ico) waveSharp2 release available (2024 12 09)
-Today one year has passed since we released waveSharp1. Information on how to download/install (windows and Linux) is available see https://github.com/CorBer/waveSharp/releases.  
+Information on how to download/install (windows and Linux) is available see https://github.com/CorBer/waveSharp/releases.  
 
 <br><br>
 
