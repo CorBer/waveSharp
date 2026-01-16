@@ -7,6 +7,12 @@ The past months the testing team has been using/testing a new version of waveSha
 https://github.com/CorBer/waveSharp/releases
 
 
+
+<br><br>
+
+
+<br><br>
+
 # ![x](/../main/images/waveSharp2.ico) waveSharp2 release available (2024 12 09)
 Today one year has passed since we released waveSharp1. Information on how to download/install (windows and Linux) is available see https://github.com/CorBer/waveSharp/releases.  
 
