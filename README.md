@@ -1,3 +1,6 @@
+# ![x](/../main/images/waveSharp3.ico) Further development postponed 
+Based on the time it took to develop WS3 I have decided to postpone further development. 
+
 # ![x](/../main/images/waveSharp3.ico) waveSharp3 released (2025 12 09)
 ![x](/../main/images/aboutws3.webp)<br>
 
