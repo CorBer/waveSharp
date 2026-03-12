@@ -1,3 +1,14 @@
+## waveSharp3 will move its archive to 
+## https://codeberg.org/Corbee/waveSharp3.0/releases
+
+
+
+<br>
+<br>
+
+
+
+
 # ![x](/../main/images/waveSharp3.ico) WaveSharp3 is the final release (2026 02 27)
 Based on the time/energy it took me to create WS3 ive decided to stop developing this application further.
 
